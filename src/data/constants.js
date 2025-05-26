@@ -269,7 +269,7 @@ export const projects = [
 
   {
     id: 8,
-    title: "Apple Quality Classification",
+    title: "Stock Management",
     date: "March 2024",
     description:
       "A web-based stock market tracker that displays real-time stock prices, historical trends, and user watchlists. Built with Python, APIs, and optional Sqlite for user data persistence. The project helps users monitor and analyze market movements efficiently.",
