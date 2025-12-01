@@ -8,7 +8,7 @@ export const Bio = {
   leetcode: "https://leetcode.com/u/devanshu_kothe/",
  
   resume:
-    "https://drive.google.com/file/d/1EXLG0xhiWIQ3saRwFHueyOt6RaWluMte/view?usp=sharing",
+    "https://drive.google.com/file/d/1gqAdt38ZMzRos9iiuQ690tas0Eiz5xX-/view?usp=sharing",
 
   linkedin: "https://www.linkedin.com/in/devanshu-kothe/",
   twitter: "https://x.com/devanshu_kothe?t=GDAv1XrG2gXY_1sVQJxOPQ&s=08",
@@ -238,18 +238,18 @@ export const projects = [
 
   {
     id: 2,
-    title: "ROOMLO",
-     date: "Sept 2024",
+    title: "PARKME",
+     date: "Mar 2025",
     description:
-      "Roomlo is a smart room and hostel management app designed to simplify room allotment, tracking, and leave requests. Built with React and Firebase, it offers real-time updates, transparent workflows, and role-based access for students, wardens, and admins.",
+      "A responsive web application that enables users to discover, book, and manage parking spots in real-time with secure online payments. Built with modern web technologies to simplify parking — turning parking hassles into just a few clicks.",
     image:
-      "https://imgs.search.brave.com/o3O-KR-KVat2fUrbeTzGIXDU4qR_-xZK0H_xSK57zjw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vRmI5c3du/aUphRXRldHk2WXFf/SEhGa28xTW0wU3dt/di16UW5OZExGNGFX/WS9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTkw/YUdWdS9hVzVsYUdW/eWRIb3VZMjl0L0wz/ZHdMV052Ym5SbGJu/UXYvZFhCc2IyRmtj/eTh5TURJeS9MekV4/TDFKdmIyMVRkSGxz/L1pYSXVjRzVu.jpeg",
+      "https://park-me-client.vercel.app/assets/1-D47mYips.jpeg",
     tags: ["React", "Node", "Express", "Mongodb", "Firebase", "Google Map Api", "TailwindCSS"],
     category: "web app",
     github:
-      "https://github.com/devanshukothe/Roomlo",
+      "https://github.com/devanshukothe/Park.me",
     webapp:
-      "https://roomlo.vercel.app/",
+      "https://park-me-client.vercel.app/",
    
   },
 
@@ -265,23 +265,5 @@ export const projects = [
     category: "web app",
     github: "https://github.com/devanshukothe/interview-craft",
     webapp: "https://interviewcraft.vercel.app/dashboard",
-  },
-
-  {
-    id: 8,
-    title: "Stock Management",
-    date: "March 2024",
-    description:
-      "A web-based stock market tracker that displays real-time stock prices, historical trends, and user watchlists. Built with Python, APIs, and optional Sqlite for user data persistence. The project helps users monitor and analyze market movements efficiently.",
-    image:
-      "https://imgs.search.brave.com/oZJQ9xuJ-ZRZWjQ3onZZK9nf_MMN0_3slNnPpSpTbd4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vRHFIU21T/a2ttdHkxTkpCOFY4/cko0aVprSnlZSEhm/eHJtdnVNaVEyanFY/OC9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTl0/WldScC9ZUzVwYzNS/dlkydHdhRzkwL2J5/NWpiMjB2YVdRdk1U/SXgvTVRjME56TXpP/QzkyWldOMC9iM0l2/Y0hKdlptbDBMV0Z1/L1lXeDVjMmx6TFds/amIyNHQvWldGeWJt/bHVaeTFuY205My9k/R2d1YW5CblAzTTlO/akV5L2VEWXhNaVoz/UFRBbWF6MHkvTUNa/alBXdHFUbHBqTm5G/Vi9XVTlXZFRKbWJV/NWxSa0ZuL1VWQXpW/RWRyUTJObVpISXcv/WVhsbGEzcEhTVEZ3/TWxVOQ.jpeg",
-    tags: [
-      "Python",
-      "Classification Algo",
-      "SQLite DB"
-    ],
-    category: "machine learning",
-    github: "https://github.com/devanshukothe/Stock_management",
-    webapp: "https://github.com/devanshukothe/Stock_management",
   },
 ];
