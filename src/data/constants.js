@@ -8,7 +8,7 @@ export const Bio = {
   leetcode: "https://leetcode.com/u/devanshu_kothe/",
  
   resume:
-    "https://drive.google.com/file/d/1Ti8E_GHTtDi02_AFtgn1REWNTVYo8Uy1/view?usp=sharing",
+    "https://drive.google.com/file/d/1K_kwS_81s377_qvjNqC3yNisPqUXCF2B/view?usp=sharing",
 
   linkedin: "https://www.linkedin.com/in/devanshu-kothe/",
   twitter: "https://x.com/devanshu_kothe?t=GDAv1XrG2gXY_1sVQJxOPQ&s=08",
