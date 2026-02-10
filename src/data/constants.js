@@ -12,8 +12,6 @@ export const Bio = {
 
   linkedin: "https://www.linkedin.com/in/devanshu-kothe/",
   twitter: "https://x.com/devanshu_kothe?t=GDAv1XrG2gXY_1sVQJxOPQ&s=08",
-  
-  github: "https://github.com/devanshukothe",
 };
 
 export const skills = [
